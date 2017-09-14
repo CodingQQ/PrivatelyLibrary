@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/CodingQQ/PrivateLibTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'CodingQQ' => 'server@mycloudedu.com.cn' }
+  s.author           = { 'CodingQQ' => 'liqian_ios@163.com' }
   s.source           = { :git => 'https://github.com/CodingQQ/PrivateLibTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

@@ -25,7 +25,7 @@ pod 'PrivateLibTest'
 
 ## Author
 
-CodingQQ, server@mycloudedu.com.cn
+CodingQQ, liqian_ios@163.com
 
 ## License
 

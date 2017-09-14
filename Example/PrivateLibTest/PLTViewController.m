@@ -7,6 +7,7 @@
 //
 
 #import "PLTViewController.h"
+//#import "PLTViewTest.h"
 
 @interface PLTViewController ()
 
@@ -17,7 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+//    PLTViewTest *viewTest = [[PLTViewTest alloc]initWithFrame:CGRectMake(10, 100, 100, 100)];
+//    viewTest.backgroundColor = [UIColor orangeColor];
+//    [self.view addSubview:viewTest];
 }
 
 - (void)didReceiveMemoryWarning
